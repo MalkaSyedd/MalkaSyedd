@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF69B4&width=600&lines=Hi,+my+name+is+Malka!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  Welcome to my GitHub profile!
+</p>
+
+---
 - # 💫 About Me:
 🔭 I’m currently working on building web and software projects, including personal apps and academic projects.<br>🌱 I’m currently learning advanced JavaScript, backend development, and system programming concepts.<br>👯 I’m looking to collaborate on open-source projects, hackathon projects, or innovative tools.<br>🤔 I’m looking for help with exploring new frameworks, optimizing algorithms, and improving full-stack skills.<br>💬 Ask me about Java, JavaScript, React, backend development, math tutoring, or general coding tips.<br>📫 How to reach me: malkasyed10@example.com or via LinkedIn Malka Syed<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I love building tools that solve real problems, sometimes try to automate everything in my life, and I’m also a math tutor!
 
