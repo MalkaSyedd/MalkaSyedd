@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF69B4&width=600&lines=Hi,+my+name+is+Malka!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=50&color=FF69B4&width=600&lines=Hi,+my+name+is+Malka!;A+designer+who+codes!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile!
+  👋 Welcome to my GitHub profile!
 </p>
 
 ---
