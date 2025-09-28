@@ -18,12 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalkaSyedd&theme=radical&hide_border=true&layout=compact&langs_count=10" height="180em"/>
 </p>
 
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MalkaSyedd&icon=0&color=6" alt="Profile Views"/>
-  </a>
-</p>
+
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MalkaSyedd&theme=tokyo-night)
